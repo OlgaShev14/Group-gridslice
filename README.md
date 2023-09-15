@@ -17,4 +17,4 @@ This programm is written for Golden Software Surfer Scripter.
 
 ![Illustration 2](https://github.com/OlgaShev14/gridslice/blob/main/img/1.png)
 
-If there are no Grid files names above the script and nothing is happening, make sure the direstory is write.
+If there are no Grid files names above the script and nothing is happening, make sure the direstory is right.
