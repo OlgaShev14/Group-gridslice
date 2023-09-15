@@ -1,6 +1,6 @@
 Instruction for Group GridSlice programme
 
-This programme is written for Golden Software Surfer Scripter.
+This programme is written for Golden Software Surfer Scripter. The program is intended for automatic selection of values along the profile line by a group of Surfer Grid format files stored in the specified directory. The profile line is specified by a file in BLN format. As a result of the program work, files in DAT format are saved to the source directory, where the first two columns show coordinates of points in the coordinate system of source files, and the third column contains field values.
 
 1. Open Surfer Scripter.
 2. Paste copied code in the field for a script and safe the file *.BAS.
